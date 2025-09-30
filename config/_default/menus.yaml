@@ -1,0 +1,74 @@
+leftnav:
+- identifier: 4b1c46b4-251f-4aec-87d5-88dc71957ce3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: efd052e1-bf69-4bf7-b674-b467d979c332
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 642f9ed2-92a6-4d94-a8b2-1999612071b3
+  name: Readings and Other Resources
+  pageRef: /pages/readings
+  weight: 30
+- identifier: db335c9f-6141-4454-b87e-64f0a79998e2
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 592eb1af-de41-4ad8-868d-41de1ac2e246
+  name: Lecture Videos
+  pageRef: /pages/lecture-videos
+  weight: 50
+- identifier: 98736628-5262-47fd-99b7-301d652d1c4a
+  name: Written Assignments
+  pageRef: /pages/assignments2
+  weight: 60
+- identifier: 899bb29a-22b5-4e17-93b3-ffc574daa551
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 70
+- identifier: e5ca247a-22a6-4647-a855-e27ae64b78c9
+  name: Assignment 1
+  pageRef: /pages/assignment-1
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
+  weight: 10
+- identifier: bf14bd7d-6ee9-4653-974e-684e799e31e4
+  name: Assignment 2
+  pageRef: /pages/assignment-2
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
+  weight: 20
+- identifier: 936c1024-0499-4c07-b78f-f56eb1ec5e91
+  name: Assignment 3
+  pageRef: /pages/assignment-3
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
+  weight: 30
+- identifier: 0e88c72f-fc2b-42c8-97ec-3f56d0f9e96e
+  name: Final Assignment
+  pageRef: /pages/final-assignment
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
+  weight: 40
+- identifier: 2967e1eb-ef53-4438-9611-69fef34bc73d
+  name: Problem Set 0
+  pageRef: /pages/problem-set-0
+  parent: 899bb29a-22b5-4e17-93b3-ffc574daa551
+  weight: 10
+- identifier: 7b050e00-d44e-4607-9d70-f92d1ba08241
+  name: Problem Set 1
+  pageRef: /pages/problem-set-1
+  parent: 899bb29a-22b5-4e17-93b3-ffc574daa551
+  weight: 20
+- identifier: 57500f61-1787-433a-9349-b7af0a9a143c
+  name: Problem Set 2
+  pageRef: /pages/problem-set-2
+  parent: 899bb29a-22b5-4e17-93b3-ffc574daa551
+  weight: 30
+- identifier: c1607778-6722-4fc4-93d0-c5986c781d96
+  name: Problem Set 3
+  pageRef: /pages/problem-set-3
+  parent: 899bb29a-22b5-4e17-93b3-ffc574daa551
+  weight: 40
+- identifier: 77589af9-da3c-4410-a141-a270363fa954
+  name: Problem Set 4
+  pageRef: /pages/problem-set-4
+  parent: 899bb29a-22b5-4e17-93b3-ffc574daa551
+  weight: 50
